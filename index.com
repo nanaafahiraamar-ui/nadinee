@@ -1,0 +1,9 @@
+<!DOCYTYPE html>
+<html>
+<head>
+    <title>Profil Saya</title>
+</head>
+<body>
+    <!-- konten yang terlihat pengunjung akan ada di sini-->
+</body>
+</html>
