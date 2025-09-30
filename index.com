@@ -6,7 +6,6 @@
 </head>
 <body>
     <div class="kartu-profil">
-    </div>
 <img src="foto-profil, jpg" alt="Foto profil saya">
 <h1>Nama Lengkap Anda</h1>
 <p>Siswa SMA yang tertarik dengan teknologi dan desain.
@@ -16,5 +15,7 @@ href="httpa://www.com/usernamed">Kunjungi Instagram Saya</a>
 </body>
 </html>
     <!-- konten yang terlihat pengunjung akan ada di sini-->
+</div>
+
 </body>
 </html>
